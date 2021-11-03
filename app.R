@@ -47,7 +47,7 @@ recursos_patrimoniales <-
 #lectura patrimonio_inmaterial
 patrimonio_inmaterial <-
   st_read(
-    "/vsicurl/https://raw.githubusercontent.com/mauguemu/prueba_tablero/master/Datos/tablas/recursos_patrimonio_inm.csv",
+    "/vsicurl/https://raw.githubusercontent.com/mauguemu/prueba_tablero/master/Datos/tablas/recursos_pat_inm.csv",
     quiet = TRUE
   )
 
