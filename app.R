@@ -179,9 +179,9 @@ server <- function(input, output, session) {
       setView(-83.0232, 9.9952, 15) %>%
       
       addProviderTiles(
-        providers$CartoDB.Positron, group = "carto_DB") %>%
+        providers$CartoDB.Positron, group = "Mapa base Carto_DB") %>%
       addProviderTiles(
-        providers$Esri.WorldImagery, group = "Esri") %>%
+        providers$Esri.WorldImagery, group = "Maba base Esri") %>%
       
       addPolygons(
         data = zonas,
@@ -229,7 +229,7 @@ server <- function(input, output, session) {
       addResetMapButton()%>%
       addMouseCoordinates()%>%
       addLayersControl(
-        baseGroups = c("Carto_DB","Esri"),
+        baseGroups = c("Mapa base Carto_DB","Mapa base Esri"),
         overlayGroups = c("Zonas delimitadas","Cuadrantes", "Recursos patrimoniales"),
         options = layersControlOptions(collapsed = T)
       )
