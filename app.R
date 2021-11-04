@@ -40,7 +40,7 @@ cuadrantes <-
 
 #Lectura datos recursos patimoniales  
 recursos_patrimoniales <-
-  st_read("https://raw.githubusercontent.com/mauguemu/prueba_tablero/master/Datos/capas/recursos_patri_material.geojson",
+  st_read("https://raw.githubusercontent.com/mauguemu/prueba_tablero/master/Datos/capas/recursos_patrimonio_material.geojson",
           quiet = TRUE
   )
 
@@ -205,7 +205,7 @@ server <- function(input, output, session) {
       ) %>%
       
       addCircleMarkers(
-        data = recursos_patrimoniales,
+        data = registros,
         stroke = F,
         radius = 4,
         popup = paste0("<strong>Recurso: </strong>",
@@ -242,13 +242,12 @@ server <- function(input, output, session) {
       st_drop_geometry() %>%
       select(denominacion,economico,disponibilidad,identidad_territorial,condicion)%>%
       pivot_longer(c("economico","disponibilidad","identidad_territorial","condicion"), names_to = "criterio",values_to = "valoracion")%>%
-      
       ggplot(aes(x = valoracion, y = denominacion, fill = criterio)) +
       ggtitle("Valoración de los recursos patrimoniales") +
       ylab("Recurso") +
       xlab("Valoración multicriterio") +
-      geom_col() +
-      coord_flip()
+      geom_col()%>%
+      config(locale = "es")
     
   })
 

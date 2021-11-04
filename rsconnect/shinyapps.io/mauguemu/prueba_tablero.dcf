@@ -1,0 +1,13 @@
+name: prueba_tablero
+title: prueba_tablero
+username:
+account: mauguemu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5041794
+bundleId: 5210962
+url: https://mauguemu.shinyapps.io/prueba_tablero/
+when: 1636005653.23063
+lastSyncTime: 1636005653.23063
+asMultiple: FALSE
+asStatic: FALSE
