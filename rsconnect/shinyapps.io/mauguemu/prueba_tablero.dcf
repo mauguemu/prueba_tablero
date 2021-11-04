@@ -5,9 +5,9 @@ account: mauguemu
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5041794
-bundleId: 5210962
+bundleId: 5214077
 url: https://mauguemu.shinyapps.io/prueba_tablero/
-when: 1636005653.23063
-lastSyncTime: 1636005653.23063
+when: 1636051313.68497
+lastSyncTime: 1636051313.68497
 asMultiple: FALSE
 asStatic: FALSE
