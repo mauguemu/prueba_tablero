@@ -129,7 +129,7 @@ server <- function(input, output, session) {
     # Remoción de geometrías y selección de columnas
     patrimonio_filtrado <-
       recursos_patrimoniales %>%
-      dplyr::select(codigo,denominacion,dominio,subcategoria,estado,economico,disponibilidad,identidad_territorial,condicion,evaluacion_multicriterio,foto,ficha)
+      dplyr::select(codigo,denominacion,dominio,subcategoria,estado,economico,disponibilidad,identidad_territorial,condicion,evaluacion_multicriterio,foto,ficha,id_recurso)
     
     # Filtrado de felidae por rango
     patrimonio_filtrado <-
@@ -159,7 +159,7 @@ server <- function(input, output, session) {
     
     registros %>%
       st_drop_geometry() %>%
-      select(codigo, denominacion, subcategoria, estado,evaluacion_multicriterio)%>%
+      select(codigo,denominacion, subcategoria, estado,evaluacion_multicriterio)%>%
       datatable(registros, options = list(language = list(url = '//cdn.datatables.net/plug-ins/1.11.3/i18n/es_es.json'), pageLength = 8))
   }) 
   
@@ -217,9 +217,9 @@ server <- function(input, output, session) {
                        "<strong>Estado de conservación: </strong>",
                        registros$estado,
                        "<br>",
-                       '<img src="registro$foto">',
+                       "<img src='https://raw.githubusercontent.com/mauguemu/prueba_tablero/master/Datos/Imagenes/",registros$foto,".png","'width='200'/>",
                        "<br>",
-                       '<a href="registros$ficha"> Ficha</a>'),
+                       "<a href='https://raw.githubusercontent.com/mauguemu/prueba_tablero/master/Datos/Imagenes/",registros$ficha,".png", "'>Ficha</a>"),
         label = ~codigo,
         fillColor = 'orange',
         fillOpacity = 1,
