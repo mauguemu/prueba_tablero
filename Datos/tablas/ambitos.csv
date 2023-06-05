@@ -1,44 +1,44 @@
-Ôªø_uid_;codigo;denominacion;ambito_patrimonio
-1;B-20;Cuenta cuentos Anancy;Artes del espect√°culo
-2;B-20;Cuenta cuentos Anancy;Tradiciones y expresiones orales
-3;B-02;Gospel;Usos sociales, rituales y actos festivos
-4;B-02;Gospel;Artes del espect√°culo
-5;D-04;Libros de literatura;No aplica
-6;B-06;Carnavales de Lim√≥n;Usos sociales, rituales y actos festivos
-7;;Festival de la Cultura Negra ‚ÄúBack to Our Roots‚Äù;Usos sociales, rituales y actos festivos
-8;;Festival de la Cultura Negra ‚ÄúBack to Our Roots‚Äù;Artes del espect√°culo
-9;;Festival de la Cultura Negra ‚ÄúBack to Our Roots‚Äù;Usos sociales, rituales y actos festivos
-10;;Festival de la Cultura Negra ‚ÄúBack to Our Roots‚Äù;Artes del espect√°culo
-11;A-38;Ingl√©s criollo limonense;Tradiciones y expresiones orales
-12;B-14;Pocom√≠a;Usos sociales, rituales y actos festivos
-13;D-01;Libros Historia;No aplica
-14;C-01;Pintura Limonense;T√©cnicas artesanales tradicionales
-15;C-02;Fotograf√≠a;T√©cnicas artesanales tradicionales
-16;C-03;Artesan√≠a;T√©cnicas artesanales tradicionales
-17;B-22;Poetas limonenses;No aplica
-18;B-15;Setup;Usos sociales, rituales y actos festivos
-19;B-18;Buggy-buggy;Artes del espect√°culo
-20;D-07;Monograf√≠as;No aplica
-21;E-02;Radio y televisi√≥n;No aplica
-22;E-01;Filmes y videos;No aplica
-23;A-39;Gastronom√≠a;T√©cnicas artesanales tradicionales
-24;B-03;Calypso;Artes del espect√°culo
-25;G-02;Servicios Tur√≠sticos;No aplica
-26;B-16;Palo de Mayo;Artes del espect√°culo
-27;B-19;Teatro negro;Artes del espect√°culo
-28;B-21;Baile de la cuadrilla;Artes del espect√°culo
-29;B-17;Danza del drag√≥n;Artes del espect√°culo
-30;B-01;Marchas F√∫nebres;Usos sociales, rituales y actos festivos
-31;B-10;A√±o Nuevo Lim√≥n;Usos sociales, rituales y actos festivos
-32;D-02;Libros de arquitectura;No aplica
-33;D-03;Libros de cultura;No aplica
-34;F-01;Moda;Usos sociales, rituales y actos festivos
-35;D-06;Revistas;No aplica
-36;B-04;Parade de Gala;Usos sociales, rituales y actos festivos
-37;B-05;D√≠a Persona Negra;Usos sociales, rituales y actos festivos
-38;B-08;Calypso Moonlight;Usos sociales, rituales y actos festivos
-39;B-09;D√≠a del Cantonato de Lim√≥n;Usos sociales, rituales y actos festivos
-40;B-11;Feria del Mar Caribe;Usos sociales, rituales y actos festivos
-41;B-12;Feria del Agricultor;Usos sociales, rituales y actos festivos
-42;B-13;N-Raiz-arte;Usos sociales, rituales y actos festivos
-43;G-01;Viajes contratados y servicios tur√≠sticos;No aplica
+_uid_,codigo,denominacion,ambito_patrimonio
+"1",B-20,Cuenta cuentos Anancy,Artes del espect·culo
+"2",B-20,Cuenta cuentos Anancy,Tradiciones y expresiones orales
+"3",B-02,Gospel,"Usos sociales, rituales y actos festivos"
+"4",B-02,Gospel,Artes del espect·culo
+"5",D-04,Libros de literatura ,No aplica
+"6",B-06,Carnavales de LimÛn,"Usos sociales, rituales y actos festivos"
+"7",,Festival de la Cultura Negra 'Back to Our Roots'ù,"Usos sociales, rituales y actos festivos"
+"8",,Festival de la Cultura Negra 'Back to Our Roots'ù,Artes del espect·culo
+"9",,Festival de la Cultura Negra 'Back to Our Roots'ù,"Usos sociales, rituales y actos festivos"
+"10",,Festival de la Cultura Negra 'Back to Our Roots'ù,Artes del espect·culo
+"11",A-38,InglÈs criollo limonense,Tradiciones y expresiones orales
+"12",B-14,PocomÌa,"Usos sociales, rituales y actos festivos"
+"13",D-01,Libros Historia,No aplica
+"14",C-01,Pintura Limonense,TÈcnicas artesanales tradicionales
+"15",C-02,FotografÌa,TÈcnicas artesanales tradicionales
+"16",C-03,ArtesanÌa,TÈcnicas artesanales tradicionales
+"17",B-22,Poetas limonenses,No aplica
+"18",B-15,Setup,"Usos sociales, rituales y actos festivos"
+"19",B-18,Buggy-buggy ,Artes del espect·culo
+"20",D-07,MonografÌas,No aplica
+"21",E-02,Radio y televisiÛn,No aplica
+"22",E-01,Filmes y videos,No aplica
+"23",A-39,GastronomÌa ,TÈcnicas artesanales tradicionales
+"24",B-03,Calypso,Artes del espect·culo
+"25",G-02,Servicios TurÌsticos ,No aplica
+"26",B-16,Palo de Mayo,Artes del espect·culo
+"27",B-19,Teatro negro ,Artes del espect·culo
+"28",B-21,Baile de la cuadrilla,Artes del espect·culo
+"29",B-17,Danza del dragÛn,Artes del espect·culo
+"30",B-01,Marchas F˙nebres,"Usos sociales, rituales y actos festivos"
+"31",B-10,AÒo Nuevo LimÛn,"Usos sociales, rituales y actos festivos"
+"32",D-02,Libros de arquitectura,No aplica
+"33",D-03,Libros de cultura,No aplica
+"34",F-01,Moda,"Usos sociales, rituales y actos festivos"
+"35",D-06,Revistas ,No aplica
+"36",B-04,Parade de Gala,"Usos sociales, rituales y actos festivos"
+"37",B-05,DÌa Persona Negra,"Usos sociales, rituales y actos festivos"
+"38",B-08,Calypso Moonlight,"Usos sociales, rituales y actos festivos"
+"39",B-09,DÌa del Cantonato de LimÛn,"Usos sociales, rituales y actos festivos"
+"40",B-11,Feria del Mar Caribe,"Usos sociales, rituales y actos festivos"
+"41",B-12,Feria del Agricultor,"Usos sociales, rituales y actos festivos"
+"42",B-13,N-Raiz-arte,"Usos sociales, rituales y actos festivos"
+"43",G-01,Viajes contratados y servicios TurÌsticos,No aplica
