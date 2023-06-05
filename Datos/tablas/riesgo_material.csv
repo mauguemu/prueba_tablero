@@ -1,132 +1,132 @@
-锘縚uid_;codigo;denominacion;descripcion
-1;A-33;Anfiteatro de Lim贸n;Mercantilizaci贸n
-2;A-33;Anfiteatro de Lim贸n;Vandalismo
-3;A-33;Anfiteatro de Lim贸n;Falta de planificaci贸n territorial / urban
-4;A-33;Anfiteatro de Lim贸n;Vulnerabilidad de las t茅cnicas constructivas 
-5;A-33;Anfiteatro de Lim贸n;Falta de sensibilizaci贸n por parte de las entidades
-6;A-33;Anfiteatro de Lim贸n;Degradaci贸n por factores ambientales
-7;A-29;Parque Balvanero Vargas Molina;Interveniones inadecuadas
-8;A-29;Parque Balvanero Vargas Molina;Mercantilizaci贸n
-9;A-29;Parque Balvanero Vargas Molina;Falta de planificaci贸n territorial / urban
-10;A-29;Parque Balvanero Vargas Molina;Falta de sensibilizaci贸n por parte de las entidades
-11;A-29;Parque Balvanero Vargas Molina;Falta de aprecio por parte de las comunidades locales
-12;A-29;Parque Balvanero Vargas Molina;Falta de protecci贸n legal
-13;A-31;Tajamar;Interveniones inadecuadas
-14;A-31;Tajamar;Falta de planificaci贸n territorial / urban
-15;A-31;Tajamar;Falta de sensibilizaci贸n por parte de las entidades
-16;A-31;Tajamar;Falta de aprecio por parte de las comunidades locales
-17;A-31;Tajamar;Falta de protecci贸n legal
-18;A-31;Tajamar;Degradaci贸n por factores ambientales
-19;A-37;Muelle de Lim贸n;Interveniones inadecuadas
-20;A-37;Muelle de Lim贸n;Falta de sensibilizaci贸n por parte de las entidades
-21;A-37;Muelle de Lim贸n;Falta de protecci贸n legal
-22;A-34;Parque Abel Robles;Vandalismo
-23;A-34;Parque Abel Robles;Falta de planificaci贸n territorial / urban
-24;A-34;Parque Abel Robles;Vulnerabilidad de las t茅cnicas constructivas 
-25;A-34;Parque Abel Robles;Degradaci贸n por factores ambientales
-26;A-06;Antiguos Edificios United Fruit Company;Interveniones inadecuadas
-27;A-06;Antiguos Edificios United Fruit Company;Apropiaci贸n indebida
-28;A-06;Antiguos Edificios United Fruit Company;Falta de sensibilizaci贸n por parte de las entidades
-29;A-06;Antiguos Edificios United Fruit Company;Vandalismo
-30;A-06;Antiguos Edificios United Fruit Company;Degradaci贸n por factores ambientales
-31;A-36;Parque As铆s Esna Miguel;Interveniones inadecuadas
-32;A-36;Parque As铆s Esna Miguel;Falta de sensibilizaci贸n por parte de las entidades
-33;A-36;Parque As铆s Esna Miguel;Falta de protecci贸n legal
-34;A-20;Pensi贸n Costa Rica;Interveniones inadecuadas
-35;A-20;Pensi贸n Costa Rica;Mercantilizaci贸n
-36;A-20;Pensi贸n Costa Rica;Vandalismo
-37;A-20;Pensi贸n Costa Rica;Falta de planificaci贸n territorial / urban
-38;A-20;Pensi贸n Costa Rica;Falta de sensibilizaci贸n por parte de las entidades
-39;A-20;Pensi贸n Costa Rica;Degradaci贸n por factores ambientales
-40;A-18;Palacio Municipal;Vandalismo
-41;A-18;Palacio Municipal;Cambios en el uso de suelo
-42;A-18;Palacio Municipal;Falta de sensibilizaci贸n por parte de las entidades
-43;A-18;Palacio Municipal;Falta de aprecio por parte de las comunidades locales
-44;A-18;Palacio Municipal;Degradaci贸n por factores ambientales
-45;A-07;Black Star Line;Interveniones inadecuadas
-46;A-07;Black Star Line;Falta de sensibilizaci贸n por parte de las entidades
-47;A-07;Black Star Line;Falta de protecci贸n legal
-48;A-24;Catedral Sagrado Coraz贸n de Jes煤s;Falta de aprecio por parte de las comunidades locales
-49;A-24;Catedral Sagrado Coraz贸n de Jes煤s;Interveniones inadecuadas
-50;A-24;Catedral Sagrado Coraz贸n de Jes煤s;Falta de mantenimiento 
-51;A-24;Catedral Sagrado Coraz贸n de Jes煤s;Vandalismo
-52;A-24;Catedral Sagrado Coraz贸n de Jes煤s;Falta de sensibilizaci贸n por parte de las entidades
-53;A-21;Iglesia Anglicana San Marcos;Vandalismo
-54;A-21;Iglesia Anglicana San Marcos;Degradaci贸n por factores ambientales
-55;A-21;Iglesia Anglicana San Marcos;Alteraci贸n del 谩rea circundante
-56;A-16;Hotel Cariari;Interveniones inadecuadas
-57;A-16;Hotel Cariari;Abandono
-58;A-16;Hotel Cariari;Falta de mantenimiento 
-59;A-16;Hotel Cariari;Mercantilizaci贸n
-60;A-16;Hotel Cariari;Falta de sensibilizaci贸n por parte de las entidades
-61;A-16;Hotel Cariari;Falta de sensibilizaci贸n por parte de las entidades
-62;A-16;Hotel Cariari;Vandalismo
-63;A-16;Hotel Cariari;Falta de aprecio por parte de las comunidades locales
-64;A-17;Mercado Municipal;Falta de sensibilizaci贸n por parte de las entidades
-65;A-17;Mercado Municipal;Interveniones inadecuadas
-66;A-17;Mercado Municipal;Abandono
-67;A-17;Mercado Municipal;Falta de mantenimiento 
-68;A-17;Mercado Municipal;Vandalismo
-69;A-17;Mercado Municipal;Vulnerabilidad de las t茅cnicas constructivas 
-70;A-17;Mercado Municipal;Falta de aprecio por parte de las comunidades locales
-71;A-17;Mercado Municipal;Falta de protecci贸n legal
-72;A-17;Mercado Municipal;Degradaci贸n por factores ambientales
-73;A-17;Mercado Municipal;Alteraci贸n del 谩rea circundante
-74;A-14;Escuela Tom谩s Guardia Guti茅rrez;Abandono
-75;A-14;Escuela Tom谩s Guardia Guti茅rrez;Falta de mantenimiento 
-76;A-14;Escuela Tom谩s Guardia Guti茅rrez;Vandalismo
-77;A-14;Escuela Tom谩s Guardia Guti茅rrez;Falta de sensibilizaci贸n por parte de las entidades
-78;A-14;Escuela Tom谩s Guardia Guti茅rrez;Falta de protecci贸n legal
-79;A-14;Escuela Tom谩s Guardia Guti茅rrez;Abandono
-80;A-13;Edificio Patronato Nacional de la Infancia;Abandono
-81;A-13;Edificio Patronato Nacional de la Infancia;Falta de mantenimiento 
-82;A-13;Edificio Patronato Nacional de la Infancia;Mercantilizaci贸n
-83;A-13;Edificio Patronato Nacional de la Infancia;Vandalismo
-84;A-13;Edificio Patronato Nacional de la Infancia;Cambios en el uso de suelo
-85;A-13;Edificio Patronato Nacional de la Infancia;Falta de sensibilizaci贸n por parte de las entidades
-86;A-13;Edificio Patronato Nacional de la Infancia;Falta de aprecio por parte de las comunidades locales
-87;A-13;Edificio Patronato Nacional de la Infancia;Abandono
-88;A-08;Casa de la Cultura;Interveniones inadecuadas
-89;A-08;Casa de la Cultura;Alteraci贸n del 谩rea circundante
-90;A-15;Estadio Big Boy;Abandono
-91;A-15;Estadio Big Boy;Falta de mantenimiento 
-92;A-15;Estadio Big Boy;Vandalismo
-93;A-15;Estadio Big Boy;Falta de sensibilizaci贸n por parte de las entidades
-94;A-15;Estadio Big Boy;Falta de protecci贸n legal
-95;A-15;Estadio Big Boy;Abandono
-96;A-11;Edificio de correos y tel茅grafos ;Falta de mantenimiento 
-97;A-11;Edificio de correos y tel茅grafos ;Degradaci贸n por factores ambientales
-98;A-11;Edificio de correos y tel茅grafos ;Vandalismo
-99;A-11;Edificio de correos y tel茅grafos ;Alteraci贸n del 谩rea circundante
-100;A-12;Edificio Ingianna Rosito;Falta de mantenimiento 
-101;A-12;Edificio Ingianna Rosito;Vandalismo
-102;A-12;Edificio Ingianna Rosito;Falta de sensibilizaci贸n por parte de las entidades
-103;A-12;Edificio Ingianna Rosito;Falta de aprecio por parte de las comunidades locales
-104;A-12;Edificio Ingianna Rosito;Alteraci贸n del 谩rea circundante
-105;A-12;Edificio Ingianna Rosito;Abandono
-106;A-19;Pasaje Cristal ;Mercantilizaci贸n
-107;A-19;Pasaje Cristal ;Vandalismo
-108;A-19;Pasaje Cristal ;Falta de planificaci贸n territorial / urban
-109;A-19;Pasaje Cristal ;Falta de sensibilizaci贸n por parte de las entidades
-110;A-19;Pasaje Cristal ;Falta de aprecio por parte de las comunidades locales
-111;A-19;Pasaje Cristal ;Falta de protecci贸n legal
-112;A-05;Antigua Capitan铆a de Puerto;Vulnerabilidad de las t茅cnicas constructivas 
-113;A-05;Antigua Capitan铆a de Puerto;Vandalismo
-114;A-05;Antigua Capitan铆a de Puerto;Degradaci贸n por factores ambientales
-115;A-10;Casa Misionera;Vandalismo
-116;A-10;Casa Misionera;Falta de aprecio por parte de las comunidades locales
-117;A-10;Casa Misionera;Degradaci贸n por factores ambientales
-118;A-10;Casa Misionera;Alteraci贸n del 谩rea circundante
-119;A-32;"Playa los Ba帽os y Parque Biosalud Lim贸n
-";Vandalismo
-120;A-32;"Playa los Ba帽os y Parque Biosalud Lim贸n
-";Falta de planificaci贸n territorial / urban
-121;A-32;"Playa los Ba帽os y Parque Biosalud Lim贸n
-";Vulnerabilidad de las t茅cnicas constructivas 
-122;A-32;"Playa los Ba帽os y Parque Biosalud Lim贸n
-";Cambios en el uso de suelo
-123;A-35;Patios del INCOFER;Vandalismo
-124;A-35;Patios del INCOFER;Falta de planificaci贸n territorial / urban
-125;A-35;Patios del INCOFER;Cambios en el uso de suelo
-126;A-35;Patios del INCOFER;Degradaci贸n por factores ambientales
-127;A-35;Patios del INCOFER;Alteraci贸n del 谩rea circundante
+_uid_,codigo,denominacion,descripcion
+"1",A-33,Anfiteatro de Lim髇,Mercantilizaci髇
+"2",A-33,Anfiteatro de Lim髇,Vandalismo
+"3",A-33,Anfiteatro de Lim髇,Falta de planificaci髇 territorial / urbana
+"4",A-33,Anfiteatro de Lim髇,Vulnerabilidad de las t閏nicas constructivas 
+"5",A-33,Anfiteatro de Lim髇,Falta de sensibilizaci髇 por parte de las entidades
+"6",A-33,Anfiteatro de Lim髇,Degradaci髇 por factores ambientales
+"7",A-29,Parque Balvanero Vargas Molina,Interveniones inadecuadas
+"8",A-29,Parque Balvanero Vargas Molina,Mercantilizaci髇
+"9",A-29,Parque Balvanero Vargas Molina,Falta de planificaci髇 territorial / urbana
+"10",A-29,Parque Balvanero Vargas Molina,Falta de sensibilizaci髇 por parte de las entidades
+"11",A-29,Parque Balvanero Vargas Molina,Falta de aprecio por parte de las comunidades locales
+"12",A-29,Parque Balvanero Vargas Molina,Falta de protecci髇 legal
+"13",A-31,Tajamar,Interveniones inadecuadas
+"14",A-31,Tajamar,Falta de planificaci髇 territorial / urbana
+"15",A-31,Tajamar,Falta de sensibilizaci髇 por parte de las entidades
+"16",A-31,Tajamar,Falta de aprecio por parte de las comunidades locales
+"17",A-31,Tajamar,Falta de protecci髇 legal
+"18",A-31,Tajamar,Degradaci髇 por factores ambientales
+"19",A-37,Muelle de Lim髇,Interveniones inadecuadas
+"20",A-37,Muelle de Lim髇,Falta de sensibilizaci髇 por parte de las entidades
+"21",A-37,Muelle de Lim髇,Falta de protecci髇 legal
+"22",A-34,Parque Abel Robles,Vandalismo
+"23",A-34,Parque Abel Robles,Falta de planificaci髇 territorial / urbana
+"24",A-34,Parque Abel Robles,Vulnerabilidad de las t閏nicas constructivas 
+"25",A-34,Parque Abel Robles,Degradaci髇 por factores ambientales
+"26",A-06,Antiguos Edificios United Fruit Company,Interveniones inadecuadas
+"27",A-06,Antiguos Edificios United Fruit Company,Apropiaci髇 indebida
+"28",A-06,Antiguos Edificios United Fruit Company,Falta de sensibilizaci髇 por parte de las entidades
+"29",A-06,Antiguos Edificios United Fruit Company,Vandalismo
+"30",A-06,Antiguos Edificios United Fruit Company,Degradaci髇 por factores ambientales
+"31",A-36,Parque As韘 Esna Miguel,Interveniones inadecuadas
+"32",A-36,Parque As韘 Esna Miguel,Falta de sensibilizaci髇 por parte de las entidades
+"33",A-36,Parque As韘 Esna Miguel,Falta de protecci髇 legal
+"34",A-20,Pensi髇 Costa Rica,Interveniones inadecuadas
+"35",A-20,Pensi髇 Costa Rica,Mercantilizaci髇
+"36",A-20,Pensi髇 Costa Rica,Vandalismo
+"37",A-20,Pensi髇 Costa Rica,Falta de planificaci髇 territorial / urbana
+"38",A-20,Pensi髇 Costa Rica,Falta de sensibilizaci髇 por parte de las entidades
+"39",A-20,Pensi髇 Costa Rica,Degradaci髇 por factores ambientales
+"40",A-18,Palacio Municipal,Vandalismo
+"41",A-18,Palacio Municipal,Cambios en el uso de suelo
+"42",A-18,Palacio Municipal,Falta de sensibilizaci髇 por parte de las entidades
+"43",A-18,Palacio Municipal,Falta de aprecio por parte de las comunidades locales
+"44",A-18,Palacio Municipal,Degradaci髇 por factores ambientales
+"45",A-07,Black Star Line,Interveniones inadecuadas
+"46",A-07,Black Star Line,Falta de sensibilizaci髇 por parte de las entidades
+"47",A-07,Black Star Line,Falta de protecci髇 legal
+"48",A-24,Catedral Sagrado Coraz髇 de Jes鷖,Falta de aprecio por parte de las comunidades locales
+"49",A-24,Catedral Sagrado Coraz髇 de Jes鷖,Interveniones inadecuadas
+"50",A-24,Catedral Sagrado Coraz髇 de Jes鷖,Falta de mantenimiento 
+"51",A-24,Catedral Sagrado Coraz髇 de Jes鷖,Vandalismo
+"52",A-24,Catedral Sagrado Coraz髇 de Jes鷖,Falta de sensibilizaci髇 por parte de las entidades
+"53",A-21,Iglesia Anglicana San Marcos,Vandalismo
+"54",A-21,Iglesia Anglicana San Marcos,Degradaci髇 por factores ambientales
+"55",A-21,Iglesia Anglicana San Marcos,Alteraci髇 del 羠ea circundante
+"56",A-16,Hotel Cariari,Interveniones inadecuadas
+"57",A-16,Hotel Cariari,Abandono
+"58",A-16,Hotel Cariari,Falta de mantenimiento 
+"59",A-16,Hotel Cariari,Mercantilizaci髇
+"60",A-16,Hotel Cariari,Falta de sensibilizaci髇 por parte de las entidades
+"61",A-16,Hotel Cariari,Falta de sensibilizaci髇 por parte de las entidades
+"62",A-16,Hotel Cariari,Vandalismo
+"63",A-16,Hotel Cariari,Falta de aprecio por parte de las comunidades locales
+"64",A-17,Mercado Municipal,Falta de sensibilizaci髇 por parte de las entidades
+"65",A-17,Mercado Municipal,Interveniones inadecuadas
+"66",A-17,Mercado Municipal,Abandono
+"67",A-17,Mercado Municipal,Falta de mantenimiento 
+"68",A-17,Mercado Municipal,Vandalismo
+"69",A-17,Mercado Municipal,Vulnerabilidad de las t閏nicas constructivas 
+"70",A-17,Mercado Municipal,Falta de aprecio por parte de las comunidades locales
+"71",A-17,Mercado Municipal,Falta de protecci髇 legal
+"72",A-17,Mercado Municipal,Degradaci髇 por factores ambientales
+"73",A-17,Mercado Municipal,Alteraci髇 del 羠ea circundante
+"74",A-14,Escuela Tom醩 Guardia Guti閞rez,Abandono
+"75",A-14,Escuela Tom醩 Guardia Guti閞rez,Falta de mantenimiento 
+"76",A-14,Escuela Tom醩 Guardia Guti閞rez,Vandalismo
+"77",A-14,Escuela Tom醩 Guardia Guti閞rez,Falta de sensibilizaci髇 por parte de las entidades
+"78",A-14,Escuela Tom醩 Guardia Guti閞rez,Falta de protecci髇 legal
+"79",A-14,Escuela Tom醩 Guardia Guti閞rez,Abandono
+"80",A-13,Edificio Patronato Nacional de la Infancia,Abandono
+"81",A-13,Edificio Patronato Nacional de la Infancia,Falta de mantenimiento 
+"82",A-13,Edificio Patronato Nacional de la Infancia,Mercantilizaci髇
+"83",A-13,Edificio Patronato Nacional de la Infancia,Vandalismo
+"84",A-13,Edificio Patronato Nacional de la Infancia,Cambios en el uso de suelo
+"85",A-13,Edificio Patronato Nacional de la Infancia,Falta de sensibilizaci髇 por parte de las entidades
+"86",A-13,Edificio Patronato Nacional de la Infancia,Falta de aprecio por parte de las comunidades locales
+"87",A-13,Edificio Patronato Nacional de la Infancia,Abandono
+"88",A-08,Casa de la Cultura,Interveniones inadecuadas
+"89",A-08,Casa de la Cultura,Alteraci髇 del 羠ea circundante
+"90",A-15,Estadio Big Boy,Abandono
+"91",A-15,Estadio Big Boy,Falta de mantenimiento 
+"92",A-15,Estadio Big Boy,Vandalismo
+"93",A-15,Estadio Big Boy,Falta de sensibilizaci髇 por parte de las entidades
+"94",A-15,Estadio Big Boy,Falta de protecci髇 legal
+"95",A-15,Estadio Big Boy,Abandono
+"96",A-11,Edificio de correos y tel間rafos ,Falta de mantenimiento 
+"97",A-11,Edificio de correos y tel間rafos ,Degradaci髇 por factores ambientales
+"98",A-11,Edificio de correos y tel間rafos ,Vandalismo
+"99",A-11,Edificio de correos y tel間rafos ,Alteraci髇 del 羠ea circundante
+"100",A-12,Edificio Ingianna Rosito,Falta de mantenimiento 
+"101",A-12,Edificio Ingianna Rosito,Vandalismo
+"102",A-12,Edificio Ingianna Rosito,Falta de sensibilizaci髇 por parte de las entidades
+"103",A-12,Edificio Ingianna Rosito,Falta de aprecio por parte de las comunidades locales
+"104",A-12,Edificio Ingianna Rosito,Alteraci髇 del 羠ea circundante
+"105",A-12,Edificio Ingianna Rosito,Abandono
+"106",A-19,Pasaje Cristal ,Mercantilizaci髇
+"107",A-19,Pasaje Cristal ,Vandalismo
+"108",A-19,Pasaje Cristal ,Falta de planificaci髇 territorial / urbana
+"109",A-19,Pasaje Cristal ,Falta de sensibilizaci髇 por parte de las entidades
+"110",A-19,Pasaje Cristal ,Falta de aprecio por parte de las comunidades locales
+"111",A-19,Pasaje Cristal ,Falta de protecci髇 legal
+"112",A-05,Antigua Capitan韆 de Puerto,Vulnerabilidad de las t閏nicas constructivas 
+"113",A-05,Antigua Capitan韆 de Puerto,Vandalismo
+"114",A-05,Antigua Capitan韆 de Puerto,Degradaci髇 por factores ambientales
+"115",A-10,Casa Misionera,Vandalismo
+"116",A-10,Casa Misionera,Falta de aprecio por parte de las comunidades locales
+"117",A-10,Casa Misionera,Degradaci髇 por factores ambientales
+"118",A-10,Casa Misionera,Alteraci髇 del 羠ea circundante
+"119",A-32,"Playa los Ba駉s y Parque Biosalud Lim髇
+",Vandalismo
+"120",A-32,"Playa los Ba駉s y Parque Biosalud Lim髇
+",Falta de planificaci髇 territorial / urbana
+"121",A-32,"Playa los Ba駉s y Parque Biosalud Lim髇
+",Vulnerabilidad de las t閏nicas constructivas 
+"122",A-32,"Playa los Ba駉s y Parque Biosalud Lim髇
+",Cambios en el uso de suelo
+"123",A-35,Patios del INCOFER,Vandalismo
+"124",A-35,Patios del INCOFER,Falta de planificaci髇 territorial / urbana
+"125",A-35,Patios del INCOFER,Cambios en el uso de suelo
+"126",A-35,Patios del INCOFER,Degradaci髇 por factores ambientales
+"127",A-35,Patios del INCOFER,Alteraci髇 del 羠ea circundante
