@@ -1,0 +1,119 @@
+_uid_,codigo,denominacion,descripcion
+"1",B-20,Cuenta cuentos Anancy,Debilidad en la transmisión
+"2",B-20,Cuenta cuentos Anancy,Descontextualización
+"3",B-20,Cuenta cuentos Anancy,Globalización
+"4",B-20,Cuenta cuentos Anancy,Falta de aprecio por parte de las comunidades locales
+"5",B-20,Cuenta cuentos Anancy,Actividades y costumbres tradicionales en desuso
+"6",B-02,Gospel,Debilidad en la transmisión
+"7",B-02,Gospel,Globalización
+"8",B-02,Gospel,Falta de sensibilización por parte de las entidades
+"9",B-02,Gospel,Falta de protección legal
+"10",B-02,Gospel,Banalización de las celebraciones
+"11",D-04,Libros de literatura ,Falta de aprecio por parte de las comunidades locales
+"12",B-06,Carnavales de Limón,Mercantilización
+"13",B-06,Carnavales de Limón,Globalización
+"14",B-06,Carnavales de Limón,Banalización de las celebraciones
+"15",,Festival de la Cultura Negra “Back to Our Roots”,Mercantilización
+"16",,Festival de la Cultura Negra “Back to Our Roots”,Falta de protección legal
+"17",,Festival de la Cultura Negra “Back to Our Roots”,Banalización de las celebraciones
+"18",A-38,Inglés criollo limonense,Otro
+"19",A-38,Inglés criollo limonense,Debilidad en la transmisión
+"20",A-38,Inglés criollo limonense,Estereotipificación
+"21",A-38,Inglés criollo limonense,Globalización
+"22",A-38,Inglés criollo limonense,Falta de aprecio por parte de las comunidades locales
+"23",B-14,Pocomía,Descontextualización
+"24",B-14,Pocomía,Estereotipificación
+"25",B-14,Pocomía,Globalización
+"26",B-14,Pocomía,Banalización de las celebraciones
+"27",B-14,Pocomía,Actividades y costumbres tradicionales en desuso
+"28",D-01,Libros Historia,Falta de aprecio por parte de las comunidades locales
+"29",C-01,Pintura Limonense,Mercantilización
+"30",C-01,Pintura Limonense,Falta de protección legal
+"31",C-02,Fotografía,Mercantilización
+"32",C-02,Fotografía,Falta de protección legal
+"33",C-03,Artesanía,Mercantilización
+"34",C-03,Artesanía,Globalización
+"35",B-22,Poetas limonenses,Globalización
+"36",B-22,Poetas limonenses,Falta de aprecio por parte de las comunidades locales
+"37",B-22,Poetas limonenses,Actividades y costumbres tradicionales en desuso
+"38",B-15,Setup,Estereotipificación
+"39",B-15,Setup,Globalización
+"40",B-15,Setup,Actividades y costumbres tradicionales en desuso
+"41",B-18,Buggy-buggy ,Debilidad en la transmisión
+"42",B-18,Buggy-buggy ,Globalización
+"43",B-18,Buggy-buggy ,Falta de aprecio por parte de las comunidades locales
+"44",D-07,Monografías,Globalización
+"45",D-07,Monografías,Falta de aprecio por parte de las comunidades locales
+"46",D-07,Monografías,Falta de protección legal
+"47",D-07,Monografías,Actividades y costumbres tradicionales en desuso
+"48",E-02,Radio y televisión,Descontextualización
+"49",E-02,Radio y televisión,Mercantilización
+"50",E-02,Radio y televisión,Globalización
+"51",E-01,Filmes y videos,Globalización
+"52",E-01,Filmes y videos,Falta de aprecio por parte de las comunidades locales
+"53",A-39,Gastronomía ,Debilidad en la transmisión
+"54",A-39,Gastronomía ,Mercantilización
+"55",A-39,Gastronomía ,Globalización
+"56",A-39,Gastronomía ,Actividades y costumbres tradicionales en desuso
+"57",B-03,Calypso,Debilidad en la transmisión
+"58",B-03,Calypso,Globalización
+"59",G-02,Servicios Turísticos ,Falta de aprecio por parte de las comunidades locales
+"60",B-16,Palo de Mayo,Debilidad en la transmisión
+"61",B-16,Palo de Mayo,Globalización
+"62",B-16,Palo de Mayo,Falta de aprecio por parte de las comunidades locales
+"63",B-16,Palo de Mayo,Banalización de las celebraciones
+"64",B-19,Teatro negro ,Globalización
+"65",B-19,Teatro negro ,Falta de aprecio por parte de las comunidades locales
+"66",B-19,Teatro negro ,Banalización de las celebraciones
+"67",B-19,Teatro negro ,Actividades y costumbres tradicionales en desuso
+"68",B-21,Baile de la cuadrilla,Debilidad en la transmisión
+"69",B-21,Baile de la cuadrilla,Globalización
+"70",B-21,Baile de la cuadrilla,Falta de aprecio por parte de las comunidades locales
+"71",B-21,Baile de la cuadrilla,Banalización de las celebraciones
+"72",B-21,Baile de la cuadrilla,Actividades y costumbres tradicionales en desuso
+"73",B-17,Danza del dragón,Debilidad en la transmisión
+"74",B-17,Danza del dragón,Globalización
+"75",B-17,Danza del dragón,Falta de aprecio por parte de las comunidades locales
+"76",B-17,Danza del dragón,Banalización de las celebraciones
+"77",B-01,Marchas Fúnebres,Debilidad en la transmisión
+"78",B-01,Marchas Fúnebres,Globalización
+"79",B-01,Marchas Fúnebres,Falta de aprecio por parte de las comunidades locales
+"80",B-01,Marchas Fúnebres,Banalización de las celebraciones
+"81",B-01,Marchas Fúnebres,Actividades y costumbres tradicionales en desuso
+"82",B-10,Año Nuevo Limón,Estereotipificación
+"83",B-10,Año Nuevo Limón,Actividades y costumbres tradicionales en desuso
+"84",D-02,Libros de arquitectura,Otro
+"85",D-02,Libros de arquitectura,Descontextualización
+"86",D-02,Libros de arquitectura,Falta de sensibilización por parte de las entidades
+"87",D-02,Libros de arquitectura,Falta de aprecio por parte de las comunidades locales
+"88",D-03,Libros de cultura,Descontextualización
+"89",D-03,Libros de cultura,Globalización
+"90",D-03,Libros de cultura,Falta de sensibilización por parte de las entidades
+"91",F-01,Moda,Debilidad en la transmisión
+"92",F-01,Moda,Descontextualización
+"93",F-01,Moda,Falta de protección legal
+"94",D-06,Revistas ,Otro
+"95",D-06,Revistas ,Descontextualización
+"96",D-06,Revistas ,Falta de aprecio por parte de las comunidades locales
+"97",B-04,Parade de Gala,Descontextualización
+"98",B-04,Parade de Gala,Mercantilización
+"99",B-04,Parade de Gala,Banalización de las celebraciones
+"100",B-05,Día Persona Negra,Descontextualización
+"101",B-05,Día Persona Negra,Estereotipificación
+"102",B-05,Día Persona Negra,Banalización de las celebraciones
+"103",B-08,Calypso Moonlight,Mercantilización
+"104",B-08,Calypso Moonlight,Banalización de las celebraciones
+"105",B-09,Día del Cantonato de Limón,Mercantilización
+"106",B-09,Día del Cantonato de Limón,Globalización
+"107",B-09,Día del Cantonato de Limón,Banalización de las celebraciones
+"108",B-11,Feria del Mar Caribe,Debilidad en la transmisión
+"109",B-11,Feria del Mar Caribe,Globalización
+"110",B-11,Feria del Mar Caribe,Falta de aprecio por parte de las comunidades locales
+"111",B-12,Feria del Agricultor,Globalización
+"112",B-12,Feria del Agricultor,Falta de sensibilización por parte de las entidades
+"113",B-12,Feria del Agricultor,Falta de aprecio por parte de las comunidades locales
+"114",B-12,Feria del Agricultor,Actividades y costumbres tradicionales en desuso
+"115",B-13,N-Raiz-arte,Mercantilización
+"116",B-13,N-Raiz-arte,Globalización
+"117",B-13,N-Raiz-arte,Banalización de las celebraciones
+"118",G-01,Viajes contratados y servicios turísticos,Falta de aprecio por parte de las comunidades locales
