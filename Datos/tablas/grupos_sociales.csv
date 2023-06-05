@@ -1,0 +1,54 @@
+_uid_,codigo,denominacion,grupo_social
+"1",B-20,Cuenta cuentos Anancy,mestizos
+"2",B-20,Cuenta cuentos Anancy,afrodescendientes
+"3",B-20,Cuenta cuentos Anancy,pueblos originarios
+"4",B-02,Gospel,afrodescendientes
+"5",D-04,Libros de literatura ,mestizos
+"6",D-04,Libros de literatura ,afrodescendientes
+"7",D-04,Libros de literatura ,pueblos originarios
+"8",B-06,Carnavales de Limón,mestizos
+"9",,Festival de la Cultura Negra “Back to Our Roots”,afrodescendientes
+"10",A-38,Inglés criollo limonense,afrodescendientes
+"11",B-14,Pocomía,afrodescendientes
+"12",D-01,Libros Historia,mestizos
+"13",D-01,Libros Historia,afrodescendientes
+"14",D-01,Libros Historia,pueblos originarios
+"15",C-01,Pintura Limonense,afrodescendientes
+"16",C-01,Pintura Limonense,pueblos originarios
+"17",C-03,Artesanía,mestizos
+"18",C-03,Artesanía,afrodescendientes
+"19",C-03,Artesanía,pueblos originarios
+"20",B-22,Poetas limonenses,mestizos
+"21",B-15,Setup,afrodescendientes
+"22",B-18,Buggy-buggy ,afrodescendientes
+"23",D-07,Monografías,mestizos
+"24",D-07,Monografías,afrodescendientes
+"25",D-07,Monografías,pueblos originarios
+"26",E-02,Radio y televisión,mestizos
+"27",E-02,Radio y televisión,afrodescendientes
+"28",E-01,Filmes y videos,mestizos
+"29",E-01,Filmes y videos,afrodescendientes
+"30",E-01,Filmes y videos,pueblos originarios
+"31",A-39,Gastronomía ,afrodescendientes
+"32",B-03,Calypso,afrodescendientes
+"33",B-16,Palo de Mayo,otros
+"34",B-16,Palo de Mayo,afrodescendientes
+"35",B-19,Teatro negro ,afrodescendientes
+"36",B-21,Baile de la cuadrilla,otros
+"37",B-17,Danza del dragón,otros
+"38",B-01,Marchas Fúnebres,afrodescendientes
+"39",B-10,Año Nuevo Limón,mestizos
+"40",D-02,Libros de arquitectura,mestizos
+"41",D-03,Libros de cultura,mestizos
+"42",F-01,Moda,mestizos
+"43",F-01,Moda,afrodescendientes
+"44",D-06,Revistas ,mestizos
+"45",D-06,Revistas ,afrodescendientes
+"46",B-04,Parade de Gala,afrodescendientes
+"47",B-05,Día Persona Negra,afrodescendientes
+"48",B-08,Calypso Moonlight,mestizos
+"49",B-08,Calypso Moonlight,afrodescendientes
+"50",B-09,Día del Cantonato de Limón,mestizos
+"51",B-11,Feria del Mar Caribe,mestizos
+"52",B-12,Feria del Agricultor,mestizos
+"53",B-13,N-Raiz-arte,mestizos
