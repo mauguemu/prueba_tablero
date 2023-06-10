@@ -1,329 +1,143 @@
-_uid_,dominio,subcategoria,nombre
-"1",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Carlos Smith
-"2",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Claudio Taylor Mckenzie
-"3",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Gisela Suárez
-"4",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Haydee Jiménez
-"5",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Hotencia Smith
-"6",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Javier Acuña
-"7",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Jorge Calvo
-"8",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Margarita Mata Quesada
-"9",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Pamela Loaíciga
-"10",Presentaciones Artísticas y Celebraciones,Música,Carlos Saavedra
-"11",Presentaciones Artísticas y Celebraciones,Música,Cindy Serrano
-"12",Presentaciones Artísticas y Celebraciones,Música,Cirilo Sylvan
-"13",Presentaciones Artísticas y Celebraciones,Música,Gerardo Meza
-"14",Presentaciones Artísticas y Celebraciones,Música,Hotencia Smith
-"15",Presentaciones Artísticas y Celebraciones,Música,Julio Medina
-"16",Presentaciones Artísticas y Celebraciones,Música,Marcos Forbes
-"17",Presentaciones Artísticas y Celebraciones,Música,PeÃ±a
-"18",Presentaciones Artísticas y Celebraciones,Música,Rafael Zapata
-"19",Presentaciones Artísticas y Celebraciones,Música,Rita Díaz
-"20",Presentaciones Artísticas y Celebraciones,Música,Shanty
-"21",Presentaciones Artísticas y Celebraciones,Música,Yahaira Cisneros
-"22",Presentaciones Artísticas y Celebraciones,Música,Yanina Vargas
-"23",Libros y Prensa,Libros,Axel Alvarado
-"24",Libros y Prensa,Libros,Carlos Saavedra
-"25",Libros y Prensa,Libros,Christian Barrett
-"26",Libros y Prensa,Libros,Diony Palmer
-"27",Libros y Prensa,Libros,Dolores Joseph
-"28",Libros y Prensa,Libros,Don Abraham
-"29",Libros y Prensa,Libros,Edgar León
-"30",Libros y Prensa,Libros,Elizabeth Taylor
-"31",Libros y Prensa,Libros,Gerardo Meza
-"32",Libros y Prensa,Libros,Alonso Foster
-"33",Libros y Prensa,Libros,Jeannete Ibarra
-"34",Libros y Prensa,Libros,Margarita Mata Quesada
-"35",Libros y Prensa,Libros,Yla Romero
-"36",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Cynthia Small
-"37",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Eleonor Spencer
-"38",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Javier Acuña
-"39",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Margarita Mata Quesada
-"40",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Óscar Alvarado Martínez
-"41",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Reymond Smith
-"42",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Rohena Watson
-"43",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Xinia Rose
-"44",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Cynthia Small
-"45",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Eleonor Spencer
-"46",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Javier Acuña
-"47",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Margarita Mata Quesada
-"48",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Óscar Alvarado Martínez
-"49",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Reymond Smith
-"50",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Rohena Watson
-"51",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Xinia Rose
-"52",Patrimonio Cultural y Natural,Idioma,Axel Alvarado
-"53",Patrimonio Cultural y Natural,Idioma,Luz Marina Vásquez
-"54",Patrimonio Cultural y Natural,Idioma,Margarita Mata Quesada
-"55",Patrimonio Cultural y Natural,Idioma,René  Zúñiga
-"56",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Carlos Smith
-"57",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Claudio Taylor Mckenzie
-"58",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Gisela Suárez
-"59",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Haydee Jiménez
-"60",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Hotencia Smith
-"61",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Javier Acuña
-"62",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Jorge Calvo
-"63",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Margarita Mata Quesada
-"64",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Pamela Loaíciga
-"65",Libros y Prensa,Libros,Axel Alvarado
-"66",Libros y Prensa,Libros,Carlos Saavedra
-"67",Libros y Prensa,Libros,Christian Barrett
-"68",Libros y Prensa,Libros,Diony Palmer
-"69",Libros y Prensa,Libros,Dolores Joseph
-"70",Libros y Prensa,Libros,Don Abraham
-"71",Libros y Prensa,Libros,Edgar León
-"72",Libros y Prensa,Libros,Elizabeth Taylor
-"73",Libros y Prensa,Libros,Gerardo Meza
-"74",Libros y Prensa,Libros,Alonso Foster
-"75",Libros y Prensa,Libros,Jeannete Ibarra
-"76",Libros y Prensa,Libros,Margarita Mata Quesada
-"77",Libros y Prensa,Libros,Yla Romero
-"78",Artes Visuales y Artesanías,Bellas Artes,Alexis Mata
-"79",Artes Visuales y Artesanías,Bellas Artes,Allan Fonseca
-"80",Artes Visuales y Artesanías,Bellas Artes,Danny Herrera
-"81",Artes Visuales y Artesanías,Bellas Artes,Don Abraham
-"82",Artes Visuales y Artesanías,Bellas Artes,Edgar León
-"83",Artes Visuales y Artesanías,Bellas Artes,Escuela de Arte Bonilla
-"84",Artes Visuales y Artesanías,Bellas Artes,Gerardo Meza
-"85",Artes Visuales y Artesanías,Bellas Artes,Guillermo Porras
-"86",Artes Visuales y Artesanías,Bellas Artes,Honorio Cabraca
-"87",Artes Visuales y Artesanías,Bellas Artes,Mabel Muñoz
-"88",Artes Visuales y Artesanías,Bellas Artes,Patricia Aguilar
-"89",Artes Visuales y Artesanías,Bellas Artes,Andrés González
-"90",Artes Visuales y Artesanías,Bellas Artes,Roxana Brizuela
-"91",Artes Visuales y Artesanías,Bellas Artes,Vicky Araya
-"92",Artes Visuales y Artesanías,Bellas Artes,William Durán
-"93",Artes Visuales y Artesanías,Fotografía,Beatriz Kunzi
-"94",Artes Visuales y Artesanías,Fotografía,Don Abraham
-"95",Artes Visuales y Artesanías,Fotografía,Dr Cantillo
-"96",Artes Visuales y Artesanías,Fotografía,Allan Salazar
-"97",Artes Visuales y Artesanías,Fotografía,Edgar León
-"98",Artes Visuales y Artesanías,Fotografía,Grace Hamblin
-"99",Artes Visuales y Artesanías,Fotografía,Limón de Ayer
-"100",Artes Visuales y Artesanías,Artesanía,Doris Brenes
-"101",Artes Visuales y Artesanías,Artesanía,Evelyn Sánchez
-"102",Artes Visuales y Artesanías,Artesanía,Javier Acuña
-"103",Artes Visuales y Artesanías,Artesanía,Julieta Joseph
-"104",Artes Visuales y Artesanías,Artesanía,Margarita Mata Quesada
-"105",Artes Visuales y Artesanías,Artesanía,Maritza Trejos
-"106",Artes Visuales y Artesanías,Artesanía,Rosa Jácamo
-"107",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Carlos Smith
-"108",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Claudio Taylor Mckenzie
-"109",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Gisela Suárez
-"110",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Haydee Jiménez
-"111",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Hotencia Smith
-"112",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Javier Acuña
-"113",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Jorge Calvo
-"114",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Margarita Mata Quesada
-"115",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Pamela Loaíciga
-"116",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Carlos Smith
-"117",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Claudio Taylor Mckenzie
-"118",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Gisela Suárez
-"119",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Haydee Jiménez
-"120",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Hotencia Smith
-"121",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Javier Acuña
-"122",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Jorge Calvo
-"123",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Margarita Mata Quesada
-"124",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Pamela Loaíciga
-"125",Libros y Prensa,Otros Materiales Impresos,Axel Alvarado
-"126",Libros y Prensa,Otros Materiales Impresos,Javier Acuña
-"127",Libros y Prensa,Otros Materiales Impresos,Margarita Mata Quesada
-"128",Libros y Prensa,Otros Materiales Impresos,Marianita Harvey
-"129",Libros y Prensa,Bibliotecas,Biblioteca pública de Limón
-"130",Libros y Prensa,Bibliotecas,Margareth Simpson
-"131",Medios Audiovisuales e Interactivos,Radio y Televisión,Edwin Zamora
-"132",Medios Audiovisuales e Interactivos,Radio y Televisión,Javier Acuña
-"133",Medios Audiovisuales e Interactivos,Radio y Televisión,Margarita Mata Quesada
-"134",Medios Audiovisuales e Interactivos,Radio y Televisión,MartÃ­n Montoya
-"135",Medios Audiovisuales e Interactivos,Radio y Televisión,Tatiana Sáenz
-"136",Medios Audiovisuales e Interactivos,Filmes y Videos,Axel Alvarado
-"137",Medios Audiovisuales e Interactivos,Filmes y Videos,Edgar León
-"138",Medios Audiovisuales e Interactivos,Filmes y Videos,Elizabeth Taylor
-"139",Medios Audiovisuales e Interactivos,Filmes y Videos,Haydee Jiménez
-"140",Medios Audiovisuales e Interactivos,Filmes y Videos,Vera Germer
-"141",Medios Audiovisuales e Interactivos,Filmes y Videos,Yla Romero
-"142",Patrimonio Cultural y Natural,Gastronomía,Darner Sambola
-"143",Patrimonio Cultural y Natural,Gastronomía,Delia
-"144",Patrimonio Cultural y Natural,Gastronomía,Delsee Rodney
-"145",Patrimonio Cultural y Natural,Gastronomía,Hotencia Smith
-"146",Patrimonio Cultural y Natural,Gastronomía,Jeannet Brown
-"147",Patrimonio Cultural y Natural,Gastronomía,Marcia
-"148",Patrimonio Cultural y Natural,Gastronomía,MarÃ­a Forbes
-"149",Patrimonio Cultural y Natural,Gastronomía,Roena Brown 
-"150",Presentaciones Artísticas y Celebraciones,Música,Carlos Saavedra
-"151",Presentaciones Artísticas y Celebraciones,Música,Carlos Smith
-"152",Presentaciones Artísticas y Celebraciones,Música,Cindy Serrano
-"153",Presentaciones Artísticas y Celebraciones,Música,Cirilo Sylvan
-"154",Presentaciones Artísticas y Celebraciones,Música,Claudio Taylor Mckenzie
-"155",Presentaciones Artísticas y Celebraciones,Música,Gerardo Meza
-"156",Presentaciones Artísticas y Celebraciones,Música,Gisela Suárez
-"157",Presentaciones Artísticas y Celebraciones,Música,Haydee Jiménez
-"158",Presentaciones Artísticas y Celebraciones,Música,Hotencia Smith
-"159",Presentaciones Artísticas y Celebraciones,Música,Javier Acuña
-"160",Presentaciones Artísticas y Celebraciones,Música,Jorge Calvo
-"161",Presentaciones Artísticas y Celebraciones,Música,Julio Medina
-"162",Presentaciones Artísticas y Celebraciones,Música,Marcos Forbes
-"163",Presentaciones Artísticas y Celebraciones,Música,Margarita Mata Quesada
-"164",Presentaciones Artísticas y Celebraciones,Música,Pamela Loaíciga
-"165",Presentaciones Artísticas y Celebraciones,Música,PeÃ±a
-"166",Presentaciones Artísticas y Celebraciones,Música,Rafael Zapata
-"167",Presentaciones Artísticas y Celebraciones,Música,Rita Díaz
-"168",Presentaciones Artísticas y Celebraciones,Música,Shanty
-"169",Presentaciones Artísticas y Celebraciones,Música,Yahaira Cisneros
-"170",Presentaciones Artísticas y Celebraciones,Música,Yanina Vargas
-"171",Turismo,Hospitalidad y Hospedaje,Hotel Miami
-"172",Turismo,Hospitalidad y Hospedaje,Hotel Park
-"173",Turismo,Hospitalidad y Hospedaje,Howard Grant
-"174",Turismo,Hospitalidad y Hospedaje,Óscar Alvarado Martínez
-"175",Turismo,Hospitalidad y Hospedaje,Reymond Smith
-"176",Turismo,Hospitalidad y Hospedaje,Andrés Shum
-"177",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Carlos Smith
-"178",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Claudio Taylor Mckenzie
-"179",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Gisela Suárez
-"180",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Haydee Jiménez
-"181",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Hotencia Smith
-"182",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Javier Acuña
-"183",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Jorge Calvo
-"184",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Margarita Mata Quesada
-"185",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Pamela Loaíciga
-"186",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Carlos Smith
-"187",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Claudio Taylor Mckenzie
-"188",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Gisela Suárez
-"189",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Haydee Jiménez
-"190",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Hotencia Smith
-"191",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Javier Acuña
-"192",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Jorge Calvo
-"193",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Margarita Mata Quesada
-"194",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Pamela Loaíciga
-"195",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Carlos Smith
-"196",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Claudio Taylor Mckenzie
-"197",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Gisela Suárez
-"198",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Haydee Jiménez
-"199",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Hotencia Smith
-"200",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Javier Acuña
-"201",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Jorge Calvo
-"202",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Margarita Mata Quesada
-"203",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Pamela Loaíciga
-"204",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Carlos Smith
-"205",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Claudio Taylor Mckenzie
-"206",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Gisela Suárez
-"207",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Haydee Jiménez
-"208",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Hotencia Smith
-"209",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Javier Acuña
-"210",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Jorge Calvo
-"211",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Margarita Mata Quesada
-"212",Presentaciones Artísticas y Celebraciones,Artes Escénicas,Pamela Loaíciga
-"213",Presentaciones Artísticas y Celebraciones,Música,Carlos Saavedra
-"214",Presentaciones Artísticas y Celebraciones,Música,Cindy Serrano
-"215",Presentaciones Artísticas y Celebraciones,Música,Cirilo Sylvan
-"216",Presentaciones Artísticas y Celebraciones,Música,Gerardo Meza
-"217",Presentaciones Artísticas y Celebraciones,Música,Hotencia Smith
-"218",Presentaciones Artísticas y Celebraciones,Música,Julio Medina
-"219",Presentaciones Artísticas y Celebraciones,Música,Marcos Forbes
-"220",Presentaciones Artísticas y Celebraciones,Música,PeÃ±a
-"221",Presentaciones Artísticas y Celebraciones,Música,Rafael Zapata
-"222",Presentaciones Artísticas y Celebraciones,Música,Rita Díaz
-"223",Presentaciones Artísticas y Celebraciones,Música,Shanty
-"224",Presentaciones Artísticas y Celebraciones,Música,Yahaira Cisneros
-"225",Presentaciones Artísticas y Celebraciones,Música,Yanina Vargas
-"226",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Cynthia Small
-"227",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Eleonor Spencer
-"228",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Javier Acuña
-"229",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Margarita Mata Quesada
-"230",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Óscar Alvarado Martínez
-"231",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Reymond Smith
-"232",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Rohena Watson
-"233",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Xinia Rose
-"234",Libros y Prensa,Libros,Axel Alvarado
-"235",Libros y Prensa,Libros,Carlos Saavedra
-"236",Libros y Prensa,Libros,Christian Barrett
-"237",Libros y Prensa,Libros,Diony Palmer
-"238",Libros y Prensa,Libros,Dolores Joseph
-"239",Libros y Prensa,Libros,Don Abraham
-"240",Libros y Prensa,Libros,Edgar León
-"241",Libros y Prensa,Libros,Elizabeth Taylor
-"242",Libros y Prensa,Libros,Gerardo Meza
-"243",Libros y Prensa,Libros,Alonso Foster
-"244",Libros y Prensa,Libros,Jeannete Ibarra
-"245",Libros y Prensa,Libros,Margarita Mata Quesada
-"246",Libros y Prensa,Libros,Yla Romero
-"247",Libros y Prensa,Libros,Axel Alvarado
-"248",Libros y Prensa,Libros,Carlos Saavedra
-"249",Libros y Prensa,Libros,Christian Barrett
-"250",Libros y Prensa,Libros,Diony Palmer
-"251",Libros y Prensa,Libros,Dolores Joseph
-"252",Libros y Prensa,Libros,Don Abraham
-"253",Libros y Prensa,Libros,Edgar León
-"254",Libros y Prensa,Libros,Elizabeth Taylor
-"255",Libros y Prensa,Libros,Gerardo Meza
-"256",Libros y Prensa,Libros,Alonso Foster
-"257",Libros y Prensa,Libros,Jeannete Ibarra
-"258",Libros y Prensa,Libros,Margarita Mata Quesada
-"259",Libros y Prensa,Libros,Yla Romero
-"260",DiseÃ±o y Servicios Creativos,Moda,Sherrier's fashion
-"261",Libros y Prensa,Periódicos y Revistas,Axel Alvarado
-"262",Libros y Prensa,Periódicos y Revistas,Periódico El Atlántico
-"263",Libros y Prensa,Periódicos y Revistas,Revista Limón Roots
-"264",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Cynthia Small
-"265",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Eleonor Spencer
-"266",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Javier Acuña
-"267",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Margarita Mata Quesada
-"268",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Óscar Alvarado Martínez
-"269",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Reymond Smith
-"270",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Rohena Watson
-"271",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Xinia Rose
-"272",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Cynthia Small
-"273",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Eleonor Spencer
-"274",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Javier Acuña
-"275",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Margarita Mata Quesada
-"276",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Óscar Alvarado Martínez
-"277",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Reymond Smith
-"278",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Rohena Watson
-"279",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Xinia Rose
-"280",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Cynthia Small
-"281",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Eleonor Spencer
-"282",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Javier Acuña
-"283",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Margarita Mata Quesada
-"284",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Óscar Alvarado Martínez
-"285",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Reymond Smith
-"286",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Rohena Watson
-"287",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Xinia Rose
-"288",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Cynthia Small
-"289",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Eleonor Spencer
-"290",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Javier Acuña
-"291",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Margarita Mata Quesada
-"292",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Óscar Alvarado Martínez
-"293",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Reymond Smith
-"294",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Rohena Watson
-"295",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Xinia Rose
-"296",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Cynthia Small
-"297",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Eleonor Spencer
-"298",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Javier Acuña
-"299",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Margarita Mata Quesada
-"300",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Óscar Alvarado Martínez
-"301",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Reymond Smith
-"302",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Rohena Watson
-"303",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Xinia Rose
-"304",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Cynthia Small
-"305",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Eleonor Spencer
-"306",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Javier Acuña
-"307",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Margarita Mata Quesada
-"308",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Óscar Alvarado Martínez
-"309",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Reymond Smith
-"310",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Rohena Watson
-"311",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Xinia Rose
-"312",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Cynthia Small
-"313",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Eleonor Spencer
-"314",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Javier Acuña
-"315",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Margarita Mata Quesada
-"316",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Óscar Alvarado Martínez
-"317",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Reymond Smith
-"318",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Rohena Watson
-"319",Presentaciones Artísticas y Celebraciones,"Festividades, Festivales y Ferias",Xinia Rose
-"320",Turismo,Viajes Contratados y Servicios Turísticos,David Camiege
-"321",Turismo,Viajes Contratados y Servicios Turísticos,George Grant
-"322",Turismo,Viajes Contratados y Servicios Turísticos,Howard Grant
-"323",Turismo,Viajes Contratados y Servicios Turísticos,Ana Matarrita McCalla
-"324",Turismo,Viajes Contratados y Servicios Turísticos,Randal Villalta
-"325",Turismo,Viajes Contratados y Servicios Turísticos,Reymond Smith
-"326",Turismo,Viajes Contratados y Servicios Turísticos,Sergio - Explore Limón
-"327",Turismo,Viajes Contratados y Servicios Turísticos,Sol Mar - Sol Tour
-"328",Turismo,Viajes Contratados y Servicios Turísticos,Iván Escaimilla
+ï»¿_uid_;dominio;subcategoria;nombre
+78;Artes Visuales y ArtesanÃ­as;Bellas Artes;Alexis Mata
+79;Artes Visuales y ArtesanÃ­as;Bellas Artes;Allan Fonseca
+96;Artes Visuales y ArtesanÃ­as;FotografÃ­a;Allan Salazar
+256;Libros y Prensa;Libros;Alonso Foster
+323;Turismo;Viajes Contratados y Servicios TurÃ­sticos;Ana Matarrita McCalla
+89;Artes Visuales y ArtesanÃ­as;Bellas Artes;AndrÃ©s GonzÃ¡lez
+176;Turismo;Hospitalidad y Hospedaje;AndrÃ©s Shum
+23;Libros y Prensa;Libros;Axel Alvarado
+52;Patrimonio Cultural y Natural;Idioma;Axel Alvarado
+65;Libros y Prensa;Libros;Axel Alvarado
+125;Libros y Prensa;Otros Materiales Impresos;Axel Alvarado
+136;Medios Audiovisuales e Interactivos;Filmes y Videos;Axel Alvarado
+234;Libros y Prensa;Libros;Axel Alvarado
+261;Libros y Prensa;PeriÃ³dicos y Revistas;Axel Alvarado
+93;Artes Visuales y ArtesanÃ­as;FotografÃ­a;Beatriz Kunzi
+129;Libros y Prensa;Bibliotecas;Biblioteca pÃºblica de LimÃ³n
+150;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Carlos Saavedra
+235;Libros y Prensa;Libros;Carlos Saavedra
+1;Presentaciones ArtÃ­sticas y Celebraciones;Artes EscÃ©nicas;Carlos Smith
+107;Presentaciones ArtÃ­sticas y Celebraciones;Festividades, Festivales y Ferias;Carlos Smith
+151;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Carlos Smith
+25;Libros y Prensa;Libros;Christian Barrett
+11;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Cindy Serrano
+12;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Cirilo Sylvan
+2;Presentaciones ArtÃ­sticas y Celebraciones;Artes EscÃ©nicas;Claudio Taylor Mckenzie
+57;Presentaciones ArtÃ­sticas y Celebraciones;Festividades, Festivales y Ferias;Claudio Taylor Mckenzie
+117;Presentaciones ArtÃ­sticas y Celebraciones;Artes EscÃ©nicas;Claudio Taylor Mckenzie
+154;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Claudio Taylor Mckenzie
+178;Presentaciones ArtÃ­sticas y Celebraciones;Artes EscÃ©nicas;Claudio Taylor Mckenzie
+36;Presentaciones ArtÃ­sticas y Celebraciones;Festividades, Festivales y Ferias;Cynthia Small
+80;Artes Visuales y ArtesanÃ­as;Bellas Artes;Danny Herrera
+142;Patrimonio Cultural y Natural;GastronomÃ­a;Darner Sambola
+320;Turismo;Viajes Contratados y Servicios TurÃ­sticos;David Camiege
+143;Patrimonio Cultural y Natural;GastronomÃ­a;Delia
+144;Patrimonio Cultural y Natural;GastronomÃ­a;Delsee Rodney
+26;Libros y Prensa;Libros;Diony Palmer
+27;Libros y Prensa;Libros;Dolores Joseph
+81;Artes Visuales y ArtesanÃ­as;Bellas Artes;Don Abraham
+94;Artes Visuales y ArtesanÃ­as;FotografÃ­a;Don Abraham
+239;Libros y Prensa;Libros;Don Abraham
+100;Artes Visuales y ArtesanÃ­as;ArtesanÃ­a;Doris Brenes
+95;Artes Visuales y ArtesanÃ­as;FotografÃ­a;Dr Cantillo
+29;Libros y Prensa;Libros;Edgar LeÃ³n
+82;Artes Visuales y ArtesanÃ­as;Bellas Artes;Edgar LeÃ³n
+97;Artes Visuales y ArtesanÃ­as;FotografÃ­a;Edgar LeÃ³n
+137;Medios Audiovisuales e Interactivos;Filmes y Videos;Edgar LeÃ³n
+131;Medios Audiovisuales e Interactivos;Radio y TelevisiÃ³n;Edwin Zamora
+37;Presentaciones ArtÃ­sticas y Celebraciones;Festividades, Festivales y Ferias;Eleonor Spencer
+30;Libros y Prensa;Libros;Elizabeth Taylor
+138;Medios Audiovisuales e Interactivos;Filmes y Videos;Elizabeth Taylor
+241;Libros y Prensa;Libros;Elizabeth Taylor
+83;Artes Visuales y ArtesanÃ­as;Bellas Artes;Escuela de Arte Bonilla
+101;Artes Visuales y ArtesanÃ­as;ArtesanÃ­a;Evelyn SÃ¡nchez
+321;Turismo;Viajes Contratados y Servicios TurÃ­sticos;George Grant
+13;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Gerardo Meza
+31;Libros y Prensa;Libros;Gerardo Meza
+84;Artes Visuales y ArtesanÃ­as;Bellas Artes;Gerardo Meza
+3;Presentaciones ArtÃ­sticas y Celebraciones;Artes EscÃ©nicas;Gisela SuÃ¡rez
+58;Presentaciones ArtÃ­sticas y Celebraciones;Festividades, Festivales y Ferias;Gisela SuÃ¡rez
+156;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Gisela SuÃ¡rez
+179;Presentaciones ArtÃ­sticas y Celebraciones;Artes EscÃ©nicas;Gisela SuÃ¡rez
+98;Artes Visuales y ArtesanÃ­as;FotografÃ­a;Grace Hamblin
+85;Artes Visuales y ArtesanÃ­as;Bellas Artes;Guillermo Porras
+4;Presentaciones ArtÃ­sticas y Celebraciones;Artes EscÃ©nicas;Haydee JimÃ©nez
+59;Presentaciones ArtÃ­sticas y Celebraciones;Festividades, Festivales y Ferias;Haydee JimÃ©nez
+139;Medios Audiovisuales e Interactivos;Filmes y Videos;Haydee JimÃ©nez
+157;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Haydee JimÃ©nez
+86;Artes Visuales y ArtesanÃ­as;Bellas Artes;Honorio Cabraca
+171;Turismo;Hospitalidad y Hospedaje;Hotel Miami
+172;Turismo;Hospitalidad y Hospedaje;Hotel Park
+5;Presentaciones ArtÃ­sticas y Celebraciones;Artes EscÃ©nicas;Hotencia Smith
+14;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Hotencia Smith
+60;Presentaciones ArtÃ­sticas y Celebraciones;Festividades, Festivales y Ferias;Hotencia Smith
+145;Patrimonio Cultural y Natural;GastronomÃ­a;Hotencia Smith
+173;Turismo;Hospitalidad y Hospedaje;Howard Grant
+322;Turismo;Viajes Contratados y Servicios TurÃ­sticos;Howard Grant
+328;Turismo;Viajes Contratados y Servicios TurÃ­sticos;IvÃ¡n Escaimilla
+6;Presentaciones ArtÃ­sticas y Celebraciones;Artes EscÃ©nicas;Javier AcuÃ±a
+38;Presentaciones ArtÃ­sticas y Celebraciones;Festividades, Festivales y Ferias;Javier AcuÃ±a
+126;Libros y Prensa;Otros Materiales Impresos;Javier AcuÃ±a
+132;Medios Audiovisuales e Interactivos;Radio y TelevisiÃ³n;Javier AcuÃ±a
+159;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Javier AcuÃ±a
+146;Patrimonio Cultural y Natural;GastronomÃ­a;Jeannet Brown
+33;Libros y Prensa;Libros;Jeannete Ibarra
+7;Presentaciones ArtÃ­sticas y Celebraciones;Artes EscÃ©nicas;Jorge Calvo
+62;Presentaciones ArtÃ­sticas y Celebraciones;Festividades, Festivales y Ferias;Jorge Calvo
+160;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Jorge Calvo
+103;Artes Visuales y ArtesanÃ­as;ArtesanÃ­a;Julieta Joseph
+15;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Julio Medina
+99;Artes Visuales y ArtesanÃ­as;FotografÃ­a;LimÃ³n de Ayer
+53;Patrimonio Cultural y Natural;Idioma;Luz Marina VÃ¡squez
+87;Artes Visuales y ArtesanÃ­as;Bellas Artes;Mabel MuÃ±oz
+148;Patrimonio Cultural y Natural;GastronomÃ­a;MarÃ­a Forbes
+147;Patrimonio Cultural y Natural;GastronomÃ­a;Marcia
+16;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Marcos Forbes
+130;Libros y Prensa;Bibliotecas;Margareth Simpson
+8;Presentaciones ArtÃ­sticas y Celebraciones;Artes EscÃ©nicas;Margarita Mata Quesada
+34;Libros y Prensa;Libros;Margarita Mata Quesada
+39;Presentaciones ArtÃ­sticas y Celebraciones;Festividades, Festivales y Ferias;Margarita Mata Quesada
+54;Patrimonio Cultural y Natural;Idioma;Margarita Mata Quesada
+104;Artes Visuales y ArtesanÃ­as;ArtesanÃ­a;Margarita Mata Quesada
+127;Libros y Prensa;Otros Materiales Impresos;Margarita Mata Quesada
+133;Medios Audiovisuales e Interactivos;Radio y TelevisiÃ³n;Margarita Mata Quesada
+163;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Margarita Mata Quesada
+258;Libros y Prensa;Libros;Margarita Mata Quesada
+128;Libros y Prensa;Otros Materiales Impresos;Marianita Harvey
+105;Artes Visuales y ArtesanÃ­as;ArtesanÃ­a;Maritza Trejos
+134;Medios Audiovisuales e Interactivos;Radio y TelevisiÃ³n;MartÃ­n Montoya
+40;Presentaciones ArtÃ­sticas y Celebraciones;Festividades, Festivales y Ferias;Ã“scar Alvarado MartÃ­nez
+174;Turismo;Hospitalidad y Hospedaje;Ã“scar Alvarado MartÃ­nez
+9;Presentaciones ArtÃ­sticas y Celebraciones;Artes EscÃ©nicas;Pamela LoaÃ­ciga
+64;Presentaciones ArtÃ­sticas y Celebraciones;Festividades, Festivales y Ferias;Pamela LoaÃ­ciga
+124;Presentaciones ArtÃ­sticas y Celebraciones;Artes EscÃ©nicas;Pamela LoaÃ­ciga
+164;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Pamela LoaÃ­ciga
+88;Artes Visuales y ArtesanÃ­as;Bellas Artes;Patricia Aguilar
+17;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;PeÃ±aa
+262;Libros y Prensa;PeriÃ³dicos y Revistas;PeriÃ³dico El AtlÃ¡ntico
+18;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Rafael Zapata
+324;Turismo;Viajes Contratados y Servicios TurÃ­sticos;Randal Villalta
+55;Patrimonio Cultural y Natural;Idioma;RenÃ©  ZÃºÃ±iga
+263;Libros y Prensa;PeriÃ³dicos y Revistas;Revista LimÃ³n Roots
+175;Turismo;Hospitalidad y Hospedaje;Reymond Smith
+231;Presentaciones ArtÃ­sticas y Celebraciones;Festividades, Festivales y Ferias;Reymond Smith
+325;Turismo;Viajes Contratados y Servicios TurÃ­sticos;Reymond Smith
+222;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Rita DÃ­az
+149;Patrimonio Cultural y Natural;GastronomÃ­a;Roena Brown 
+42;Presentaciones ArtÃ­sticas y Celebraciones;Festividades, Festivales y Ferias;Rohena Watson
+106;Artes Visuales y ArtesanÃ­as;ArtesanÃ­a;Rosa JÃ¡camo
+90;Artes Visuales y ArtesanÃ­as;Bellas Artes;Roxana Brizuela
+326;Turismo;Viajes Contratados y Servicios TurÃ­sticos;Sergio - Explore LimÃ³n
+20;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Shanty
+260;DiseÃƒÂ±o y Servicios Creativos;Moda;Sherrier's fashion
+327;Turismo;Viajes Contratados y Servicios TurÃ­sticos;Sol Mar - Sol Tour
+135;Medios Audiovisuales e Interactivos;Radio y TelevisiÃ³n;Tatiana SÃ¡enz
+140;Medios Audiovisuales e Interactivos;Filmes y Videos;Vera Germer
+91;Artes Visuales y ArtesanÃ­as;Bellas Artes;Vicky Araya
+92;Artes Visuales y ArtesanÃ­as;Bellas Artes;William DurÃ¡n
+43;Presentaciones ArtÃ­sticas y Celebraciones;Festividades, Festivales y Ferias;Xinia Rose
+21;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Yahaira Cisneros
+22;Presentaciones ArtÃ­sticas y Celebraciones;MÃºsica;Yanina Vargas
+77;Libros y Prensa;Libros;Yla Romero
+141;Medios Audiovisuales e Interactivos;Filmes y Videos;Yla Romero
